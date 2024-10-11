@@ -1,0 +1,26 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+.posts-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search-heading {
+  font-family: "Roboto";
+  color: #000000;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.seach-display-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
